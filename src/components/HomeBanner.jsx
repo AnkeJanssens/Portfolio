@@ -1,4 +1,4 @@
-import "../../css/responsive.css";
+import "../css/responsive.css";
 
 export default function HomeBanner() {
   return (
