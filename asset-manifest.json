@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.64a47d41.css",
+    "main.css": "/Portfolio/static/css/main.ca6ac84b.css",
     "main.js": "/Portfolio/static/js/main.a29213fc.js",
+    "static/media/fontawesome-webfont.svg?v=4.5.0": "/Portfolio/static/media/fontawesome-webfont.3b270ae3f01b143951b0.svg",
+    "static/media/fontawesome-webfont.ttf?v=4.5.0": "/Portfolio/static/media/fontawesome-webfont.f0af1680f082547a7aae.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.5.0": "/Portfolio/static/media/fontawesome-webfont.f7f1738ca345185e0185.woff",
+    "static/media/fontawesome-webfont.eot": "/Portfolio/static/media/fontawesome-webfont.09b9015b1ecaf95655b1.eot",
+    "static/media/fontawesome-webfont.woff2?v=4.5.0": "/Portfolio/static/media/fontawesome-webfont.0317d582b93c20f68e05.woff2",
+    "static/media/BrittanySignature.ttf": "/Portfolio/static/media/BrittanySignature.0d8ad040c68381fe6600.ttf",
     "index.html": "/Portfolio/index.html",
-    "main.64a47d41.css.map": "/Portfolio/static/css/main.64a47d41.css.map",
+    "main.ca6ac84b.css.map": "/Portfolio/static/css/main.ca6ac84b.css.map",
     "main.a29213fc.js.map": "/Portfolio/static/js/main.a29213fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.64a47d41.css",
+    "static/css/main.ca6ac84b.css",
     "static/js/main.a29213fc.js"
   ]
 }
